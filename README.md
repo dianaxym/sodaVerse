@@ -1,8 +1,5 @@
 # HackDartmouth_SodaVerse
-
-Our Submission Google doc： https://docs.google.com/document/d/1U1ttAqyleoSML8DCuaRcwzqg4EigmGS6rxlRMJM6i-k/edit
-
-We didn't use Github for version control and the process images are in the Google doc.
+videolink: https://drive.google.com/file/d/1FplLVmk709fFgQgJ5lIk1mLCPi5qTGPp/view?usp=sharing
 
 ## Team Name 
 Soda Squad
